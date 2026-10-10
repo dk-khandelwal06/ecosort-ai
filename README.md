@@ -22,7 +22,9 @@ Built for the **AI-First Product Builder Hackathon 2026**
 <p>
   <a href="https://github.com/dk-khandelwal06/ecosort-ai"><strong>GitHub Repository</strong></a>
   &nbsp; • &nbsp;
-  <a href="https://vercel.com/"><strong>Deploy on Vercel</strong></a>
+  <a href="https://ecosort-ai-blond.vercel.app/"><strong>Live Website Link</strong></a>
+  &nbsp; • &nbsp;
+  <a href="https://youtu.be/t_gsTYuY71g?si=opcDJgHsK2dcyIus"><strong>Video Demo</strong></a>
 </p>
 
 </div>
